@@ -1,0 +1,38 @@
+//Author:  Erin McKillip
+
+body {
+padding-top: 50px;
+} 
+
+.starter-template {
+padding: 30px 15px;
+text-align: center;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+padding:1px;
+
+-moz-box-shadow: 0 0 10px #777777;
+-webkit-box-shadow: 0 0 10px #777777;
+box-shadow: 0 0 10px #777777;
+}
+
+
+
+body{
+padding: 5%;
+background: url('../images/pawprintjoined.jpg') repeat 0 0;
+background-color: #F3F9FF;
+}
+
+h1{
+font-weight: bold;
+}
+
+h2, h3, p{
+text-align: center;
+}
